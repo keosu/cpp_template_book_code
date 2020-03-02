@@ -1,9 +1,5 @@
 #include <iostream>
 
-class EmptyClass {
-};
+class EmptyClass {};
 
-int main()
-{
-  std::cout << "sizeof(EmptyClass): " << sizeof(EmptyClass) << '\n';
-}
+int main() { std::cout << "sizeof(EmptyClass): " << sizeof(EmptyClass) << '\n'; }

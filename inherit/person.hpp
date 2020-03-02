@@ -1,3 +1,5 @@
+#include <string>
+
 struct Person {
   std::string firstName;
   std::string lastName;
