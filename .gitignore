@@ -1,10 +1,10 @@
 */*
 
 !*.cpp
-!.h
-!.hpp
-!.cxx
-!.c
+!*.h
+!*.hpp
+!*.cxx
+!*.c
 
 !/.vscode/*
 !.gitignore
