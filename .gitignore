@@ -1,0 +1,10 @@
+*/*
+
+!*.cpp
+!.h
+!.hpp
+!.cxx
+!.c
+
+!/.vscode/*
+!.gitignore
